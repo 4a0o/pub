@@ -9,7 +9,7 @@ LeetCode 常见分类表（微软高频优先级排序）
 
 3. 二分查找 & 变种                    (微软超爱)
    - 标准二分、旋转数组、搜索区间、答案二分、最小化最大值
-   代表题: 74, 240, 1011, 410
+   代表题: 1011, 410
 
 5. 堆 / Priority Queue / TopK        (微软偏爱)
    - Kth largest, Merge K lists, Sliding Window Maximum
